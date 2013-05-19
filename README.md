@@ -13,4 +13,4 @@ dfsh-online-order
 环境
 =================
 
-需要.NET Framework 2.0以上，在SharpeDevelop 4.3.1下编译通过
+需要.NET Framework 2.0以上，在SharpDevelop 4.3.1下编译通过
